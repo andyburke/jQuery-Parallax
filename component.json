@@ -1,0 +1,20 @@
+{
+  "name": "jQuery-Parallax",
+  "repo": "IanLunn/jQuery-Parallax",
+  "description": "Used to recreate the Nike Better World parallax effect",
+  "version": "1.1.3",
+  "author": "Ian Lunn",
+  "twitter": "@IanLunn",
+  "keywords": [
+    "parallax",
+    "jquery"
+  ],
+  "dependencies": {},
+  "development": {
+  },
+  "license": "MIT/GPL",
+  "main": "scripts/jquery.parallax-1.1.3.js",
+  "scripts": [
+    "scripts/jquery.parallax-1.1.3.js"
+  ]
+}
